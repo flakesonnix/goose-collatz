@@ -1,0 +1,4 @@
+# Compiled Goose binaries
+collatz
+test_collatz
+/build
