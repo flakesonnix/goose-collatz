@@ -3,3 +3,6 @@ collatz
 test_collatz
 /build
 flake.lock
+result
+.#*
+#*#
